@@ -2,6 +2,8 @@
 
 **A triage command center for a bug-bounty hunter's inbox.**
 
+**Live app:** https://verdict-widjaya.netlify.app · **Demo video (Clips):** https://clips.agent-native.com/r/q1NvWCxItiPG
+
 A working hunter's inbox mixes four very different kinds of mail: verdicts on
 submitted reports, programs asking for more information inside a reply window,
 payout notifications, and platform noise. In a normal inbox they all look the
